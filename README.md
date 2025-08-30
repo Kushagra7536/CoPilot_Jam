@@ -91,15 +91,4 @@ An interactive, cyberpunk‑themed city planning simulator. Build on an 8×8 hex
 - SVG for grid
 - LocalStorage for client‑side persistence
 
-## Using this in v0
 
-- Preview changes in the v0 UI; click Publish to deploy on Vercel.
-- Push to GitHub from the top‑right; or download ZIP via the block menu.
-- If you install locally, use the shadcn CLI in your project to sync UI components.
-
-## Roadmap (Optional)
-
-- PNG export (grid capture), shareable URL state, JSON import/export
-- More quests/events with difficulty tiers
-- Additional building types and synergies
-- Mobile gesture tuning and larger grids
